@@ -28,7 +28,7 @@ Note that `heappop(my_heap)` and `heappush(my_heap, item)` maintain a valid heap
 
 # Code (Python)
 
-```
+```python
 import heapq
 class Solution:
     def getFinalState(self, nums: List[int], k: int, multiplier: int) -> List[int]:
